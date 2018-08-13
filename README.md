@@ -12,8 +12,8 @@ PHP 7 or higher.
 
 You can install the package via composer:
 
-```php
-composer require brentkozjak/hash-identify
+```
+composer require "brentkozjak/hash-identify":"^1.0.0"
 ```
 
 ## Usage
