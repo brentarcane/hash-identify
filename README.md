@@ -13,7 +13,7 @@ PHP 7 or higher.
 You can install the package via composer:
 
 ```
-composer require "brentkozjak/hash-identify":"^1.0.0"
+composer require "brentkozjak/hash-identify":"~1.0.0"
 ```
 
 ## Usage
